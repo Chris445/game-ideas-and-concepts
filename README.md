@@ -34,7 +34,7 @@ Once day a friend of mine started to tell me about ** roguelikes **. From then o
  
  - - - 
  
- ### So how am I going to do this?
+ ### So how am I going to do this? ###
  
  I plan on starting **simple**. First i'm going to take the most important, core concepts and develope them into something I can build onto.
  - Top down 
