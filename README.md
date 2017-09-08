@@ -9,27 +9,27 @@ Once day a friend of mine started to tell me about ** roguelikes **. From then o
  
 #### What do I want?
 - Free Roaming
- - Top down
- - Large map
+  - Top down
+  - Large map
  
 
 - NPC Interaction
- - Quests
- - Party system
- - Dynamically changing dialogue
+  - Quests
+  - Party system
+  - Dynamically changing dialogue
 
 - Replayability
- - Side quests
- - Day & Night system
- - Farming 
- - Player home
- - Trading
+  - Side quests
+  - Day & Night system
+  - Farming 
+  - Player home
+  - Trading
  
  
  
 - Combat System
- - Keep it basic 
- - WIP...
+  - Keep it basic 
+  - WIP...
  
  
  - - - 
@@ -38,18 +38,18 @@ Once day a friend of mine started to tell me about ** roguelikes **. From then o
  
  I plan on starting **simple**. First i'm going to take the most important, core concepts and develope them into something I can build onto.
  - Top down 
-  - Sprite
-  - Movement
-  - Tile map
+   - Sprite
+   - Movement
+   - Tile map
   
 Once i'v made the core or the game i'll begin to branch off into seporate projects that will eventualy be implomented into the final. 
 
 - Priority List
- - NPCs
- - Intercation 
- - Combat
- - Quests
- - Day/Night
+  - NPCs
+  - Intercation 
+  - Combat
+  - Quests
+  - Day/Night
  
   
   
