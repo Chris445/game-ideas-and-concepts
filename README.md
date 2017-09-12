@@ -3,7 +3,7 @@
 
 
 ## The Pitch
-As a kid I never liked top down RPGs. Pokemon was the only game I could say I truly loved in the genre. In time I grew patiance and began to explore games like **Chrono Trigger**, **Zelda**, **Sword of Mana**, and **Golden Axe**. Although I loved these games I still felt restricted. I could never fully immerse myself in the game world. Somethimes It was because of the graphical style, other times beacuse of a mechanic that forced pointless grinding.
+As a kid I never liked top down RPGs. Pokemon was the only game I could say I truly loved in the genre. In time I grew patiance and began to explore games like [Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger), **Zelda**, **Sword of Mana**, and **Golden Axe**. Although I loved these games I still felt restricted. I could never fully immerse myself in the game world. Somethimes It was because of the graphical style, other times beacuse of a mechanic that forced pointless grinding.
 
 Once day a friend of mine started to tell me about ** roguelikes **. From then on games like ** The Binding of Isaac **, **Dungeons of Dredmor**, **Desktop Dungeons**, and  **Nuclear throne** dominated my time spent gaming. then came **Elona**. Elona is something special to me bacuse it hit on something only niche games like **Haven and Hearth** or **Wings 2** up untill that point. Elona took the RPG wordl and opened it up and allowed me to whatever I wanted. That openness is something I would like to try and achieve but with a little more structure. 
  
