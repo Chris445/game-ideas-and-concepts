@@ -51,5 +51,12 @@ Once i'v made the core or the game i'll begin to branch off into seporate projec
   - Quests
   - Day/Night
  
+ 
+ 
+- - -
+
+### The cut idea 
+
+Games like 
   
   
